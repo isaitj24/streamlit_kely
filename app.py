@@ -4,7 +4,7 @@ st.set_page_config(page_title="Feliz Cumpleaños Kely", layout="wide")
 
 # Rutas remotas de archivos (debes subir estos a GitHub y usar los links RAW)
 video_url = "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/static/videos/fondo.mp4"
-imagen_url = "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/static/imagenes/kely.jpg"
+imagen_url = "https://github.com/isaitj24/streamlit_kely/blob/main/kely.jpg"
 
 html = f"""
 <style>
